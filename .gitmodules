@@ -1,0 +1,3 @@
+[submodule "minjava"]
+	path = minjava
+	url = https://github.com/CSE510-Group10/minjava.git
